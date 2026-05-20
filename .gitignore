@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# build output
+build/
+Debug/
+Release/
+x64/
+
+# logs
+*.log
+
+# model/data files
+*.onnx
+*.engine
+*.trt
+*.pth
+*.pt
+*.weights
+*.mp4
+*.avi
+*.mkv
+
+# system
+.DS_Store
+Thumbs.db
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# exe output
+*.exe
+*.dll
+*.pyd
